@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "HTML Interview Questions",
+    "desc": "I've created a comprehensive HTML interview question that covers all essential topics including semantic elements, forms, accessibility, and performance best practices. It’s designed to assess both foundational knowledge and real-world application skills effectively.",
+    "image": "https://images.pexels.com/photos/2882568/pexels-photo-2882568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "pdf": " ",
+    "price": 15
+  },
+  {
+    "id": 2,
+    "name": "CSS Interview Questions",
+    "desc": "I’ve crafted a well-rounded CSS interview question that touches on core concepts like selectors, specificity, positioning, Flexbox, Grid, responsiveness, and modern features like custom properties and animations. It ensures candidates demonstrate both fundamental styling knowledge and practical layout skills.",
+    "image": "https://images.pexels.com/photos/11035386/pexels-photo-11035386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "pdf": "",
+    "price": 18
+  },
+  {
+    "id": 3,
+    "name": "JAVASCRIPT Interview Questions",
+    "desc": "I’ve designed a comprehensive JavaScript interview question that covers key concepts such as data types, scope, closures, asynchronous behavior (promises, async/await), DOM manipulation, and ES6+ features. It’s aimed at evaluating both problem-solving ability and understanding of modern JavaScript practices.",
+    "image": "https://images.pexels.com/photos/7441387/pexels-photo-7441387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "pdf": "",
+    "price": 20
+  },
+  {
+    "id": 4,
+    "name": "REACT Interview Questions",
+    "desc": "I’ve created a detailed React interview question that covers core topics like components, props, state management, hooks (useEffect, useState), conditional rendering, and performance optimization. It’s structured to assess real-world skills and a strong grasp of modern React development.",
+    "image": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "pdf": "",
+    "price": 20
+  },
+  {
+    "id": 5,
+    "name": "ANGULAR Interview Questions",
+    "desc": "I’ve put together a thorough Angular interview question that covers fundamentals like components, services, dependency injection, routing, lifecycle hooks, and reactive forms. It’s crafted to evaluate both architectural understanding and hands-on Angular development skills.",
+    "image": "https://imgs.search.brave.com/pHhSina5Wlirx1pKJWah1z4QXeUE0wlJ6pKwvOI3BB8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDU3MjIw/NzYucG5n",
+    "pdf": "",
+    "price": 19
+  },
+  {
+    "id": 6,
+    "name": "Node Js Interview Questions",
+    "desc": "I’ve crafted a comprehensive Node.js interview question that covers essential concepts like the event loop, asynchronous programming, Express.js, middleware, REST APIs, and error handling. It’s designed to test backend logic, performance awareness, and real-world API implementation skills.",
+    "image": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "pdf": "",
+    "price": 17
+  },
+  {
+    "id": 7,
+    "name": "Express Js Interview Questions",
+    "desc": "I’ve designed a focused Express.js interview question that covers routing, middleware, request/response handling, RESTful API creation, error management, and integration with databases. It’s aimed at evaluating practical backend development skills using Express in real-world scenarios.",
+    "image": "https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png",
+    "pdf": "",
+    "price": 16
+  },
+  {
+    "id": 8,
+    "name": "Git & Github",
+    "desc": "I’ve crafted a comprehensive Git and GitHub interview question that covers essential Git concepts like branching, merging, rebasing, and resolving conflicts, along with GitHub-specific topics such as pull requests, forks, cloning, and collaboration workflows. It’s designed to evaluate both version control expertise and effective collaboration in a team environment.",
+    "image": "https://brand.github.com/_next/static/media/logo-01.95b2b0a0.png",
+    "pdf": "",
+    "price": 14
+  }
+]

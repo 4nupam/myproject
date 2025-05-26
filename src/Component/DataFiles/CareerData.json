@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "HTML5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+  },
+  {
+    "id": 2,
+    "name": "CSS3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+  },
+  {
+    "id": 5,
+    "name": "Tailwind CSS",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg"
+  },
+  {
+    "id": 6,
+    "name": "API Integration",
+    "image": "https://imgs.search.brave.com/K79einmpYdtoAaAxZxy1a9eW6MEWkWmOYwJAkerY_ww/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzk3LzM3LzQ2/LzM2MF9GXzU5NzM3/NDYwNV90cGg4dkI0/UnJrS3ZOMk1UMWdL/ZUpVS2VyQ1I4TFl1/OC5qcGc"
+  },
+  {
+    "id": 7,
+    "name": "Redux",
+    "image": "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
+  },
+  {
+    "id": 8,
+    "name": "Git",
+    "image": "https://imgs.search.brave.com/APq7nMmzxFiAGHPfukG2NugbtLWpnAEAPdOglBHEApE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3Zjk4MWNlZjEw/MTRjMGI1ZTQ4YmUu/cG5n"
+  },
+  {
+    "id": 9,
+    "name": "Bootstrap",
+    "image": "https://www.w3schools.com/whatis/img_bootstrap.png"
+  }
+]

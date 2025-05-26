@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "BeYoung -Store",
+    "image": "https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "github": "https://github.com/4nupam/beyoungApp",
+    "vercel": "https://beyoung-app-bice.vercel.app/",
+    "desc": "Beyoung is a clean and responsive e-commerce web application built with modern frontend technologies. It features a user-friendly interface, a dynamic product grid, and a seamless browsing experience optimized for all device sizes. Designed with a minimal aesthetic, the platform allows users to explore stylish apparel with ease. The project demonstrates strong UI design principles, scalable layout practices, and sets the foundation for advanced features like filtering, user authentication, and shopping cart integration."
+  },
+  {
+    "id": 2,
+    "name": "Anon",
+    "image": "https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "github": "https://github.com/4nupam/Anon",
+    "vercel": "https://anon-ten.vercel.app/",
+    "desc": "Anon is a sleek and interactive web application that offers a modern user experience with a clean, dark-themed UI. The platform is designed to facilitate anonymous posting or sharing, featuring smooth transitions, responsive layouts, and intuitive navigation. Built with attention to detail, it reflects a strong grasp of frontend development practices, including component-based architecture and clean design. The app lays the groundwork for community-driven features like anonymous conversations, feedback, or social interaction."
+  },
+  {
+    "id": 3,
+    "name": "VR",
+    "image": "https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "github": "https://github.com/4nupam/VR-Model",
+    "vercel": "https://vr-model.vercel.app/",
+    "desc": "VR Model is an interactive 3D product showcase application that allows users to explore virtual models in a smooth and immersive environment. The project demonstrates advanced integration of 3D rendering within a modern web interface, likely using libraries like Three.js or similar. With clean layout, responsive design, and real-time interactivity, it offers an engaging visual experience for product viewing or virtual demos. This project highlights your ability to work with cutting-edge frontend technologies and create visually dynamic user interfaces."
+  },
+  {
+    "id": 4,
+    "name": "Marvel",
+    "image": "https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "github": "https://github.com/4nupam",
+    "vercel": "https://anupam971.github.io/marvelllll/",
+    "desc": "Marvellll is a fan-centric web application that showcases Marvel characters with a visually appealing and responsive interface. Users can browse through character cards, each displaying images and basic information, making it a fun and engaging experience for Marvel enthusiasts. The project demonstrates your ability to work with APIs (likely the Marvel API), manage dynamic data rendering, and build a clean, interactive UI using HTML, CSS, and JavaScript. It’s a great example of combining pop culture themes with technical skills."
+  },
+  {
+    "id": 5,
+    "name": "Advance Filter Project",
+    "image": "https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "github": "https://github.com/4nupam/advance_filter",
+    "vercel": "https://advance-filter-three.vercel.app/",
+    "desc": "Advanced Filter is a dynamic and responsive product filtering application designed to enhance user experience through powerful search and category-based filtering. Users can refine results based on various attributes like category, color, and price, making product discovery quick and intuitive. Built with React and styled using modern CSS techniques, the project demonstrates your understanding of state management, conditional rendering, and creating scalable UI components. It’s a strong showcase of practical frontend skills applied to real-world e-commerce functionality."
+  },
+  {
+    "id": 6,
+    "name": "Movie App",
+    "image": "https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "github": "https://github.com/4nupam/advance_filter",
+    "vercel": "https://advance-filter-three.vercel.app/",
+    "desc": "Movie App is a sleek and responsive web application that allows users to explore popular movies with real-time data fetching. Featuring a clean UI, dynamic search functionality, and detailed movie pages, the app provides an intuitive experience for browsing titles, genres, and ratings. Built using React and styled with modern CSS frameworks, it demonstrates your ability to integrate external APIs (likely TMDB), manage asynchronous data, and create an interactive, content-rich frontend experience."
+  }
+]
